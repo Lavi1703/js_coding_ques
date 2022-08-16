@@ -6,14 +6,14 @@
 
 You are provided with a number, "**N**". Find its factorial.
 
+
+Print the factorial of the integ
 **Input Description:** ꢀ
 
 A positive integer is provided as an input.
 
 
-**Output Description:** ꢀ
-
-Print the factorial of the integer.
+**Output Description:** ꢀer.
 
 **Sample Input :**
 
@@ -297,7 +297,7 @@ Input Size : |N| <= 100000ꢀ
 
 **5**
 
-**3 3 4 4 7 8**
+**3 3 3 4 4 78 **
 
 **OUTPUT**
 
